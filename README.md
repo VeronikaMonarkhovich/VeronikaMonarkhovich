@@ -7,8 +7,8 @@ ___
 <h3 align="left">My stack:</h3>
 
 | Java | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Jira | Telegram |
-|:----:|:----:|:------:|:------:|:------:|:----:|:----:|:------:|:------:|:------:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenoid.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jira.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Telegram.png" width="40" height="40"> |
+|:------:|------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+| <img src="logo/Java.png" width="40" height="40"> | <img src="logo/Gradle.png" width="40" height="40"> | <img src="logo/JUnit5.png" width="40" height="40"> | <img src="logo/Selenide.png" width="40" height="40"> | <img src="logo/Github.png" width="40" height="40"> | <img src="logo/Jenkins.png" width="40" height="40"> | <img src="logo/Selenoid.png" width="40" height="40"> | <img src="logo/Allure_Report.png" width="40" height="40"> | <img src="logo/AllureTestOps.png" width="40" height="40"> | <img src="logo/Jira.png" width="40" height="40"> | <img src="logo/Telegram.png" width="40" height="40"> |
 
 ___
 
