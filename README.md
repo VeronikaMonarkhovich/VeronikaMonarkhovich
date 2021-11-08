@@ -1,6 +1,6 @@
 <h1 align="center">:cat2: Hi! 
 I'm AQA Engineer!</h1>
-<h3 align="left">I've passed a course **Automation tools and practices with QA.guru** at 2021
+<h3 align="left">I've passed a course **Automation tools and practices with QA.GURU at 2021
 
 
 ___
@@ -8,7 +8,7 @@ ___
 
 | Java | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Jira | Telegram |
 |:------:|------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| ![Image alt](https://github.com/{VeronikaMonarkhovich}/{VeronikaMonarkhovich}/raw/{master}/{logo}/Java.png") | <img src="logo/Gradle.png" width="40" height="40"> | <img src="logo/JUnit5.png" width="40" height="40"> | <img src="logo/Selenide.png" width="40" height="40"> | <img src="logo/Github.png" width="40" height="40"> | <img src="logo/Jenkins.png" width="40" height="40"> | <img src="logo/Selenoid.png" width="40" height="40"> | <img src="logo/Allure_Report.png" width="40" height="40"> | <img src="logo/AllureTestOps.png" width="40" height="40"> | <img src="logo/Jira.png" width="40" height="40"> | <img src="logo/Telegram.png" width="40" height="40"> |
+| ![Image alt](https://github.com/VeronikaMonarkhovich/VeronikaMonarkhovich/blob/master/logo/Java.png) | <img src="logo/Gradle.png" width="40" height="40"> | <img src="logo/JUnit5.png" width="40" height="40"> | <img src="logo/Selenide.png" width="40" height="40"> | <img src="logo/Github.png" width="40" height="40"> | <img src="logo/Jenkins.png" width="40" height="40"> | <img src="logo/Selenoid.png" width="40" height="40"> | <img src="logo/Allure_Report.png" width="40" height="40"> | <img src="logo/AllureTestOps.png" width="40" height="40"> | <img src="logo/Jira.png" width="40" height="40"> | <img src="logo/Telegram.png" width="40" height="40"> |
 
 ___
 
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 <p align="left">:airplane:Telegram: @Veronika_Monarkhovich
 <p align="left">:envelope:Email: taoryboon@gmail.com 
 </p>
+</h3>
