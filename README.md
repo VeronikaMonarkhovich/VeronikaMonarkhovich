@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left"><img src="logo/Telegram.png" width="20" height="20"> Telegram: @Veronika_Monarkhovich
-<p align="left">:envelope:Email: taoryboon@gmail.com 
+<p align="left">:envelope:   Email: taoryboon@gmail.com 
 </p>
 </h3>
