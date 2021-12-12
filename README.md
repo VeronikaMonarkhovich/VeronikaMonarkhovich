@@ -1,5 +1,5 @@
 <h1 align="center">:cat2: Hi! 
-I'm AQA Engineer!</h1>
+I'm QA Automation Engineer!</h1>
 <h3 align="left">I've passed a course **Automation tools and practices with QA.GURU** at 2021
 
 
