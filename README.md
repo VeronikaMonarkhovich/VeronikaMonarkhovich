@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 ---
 <h3 align="left">Connect with me:</h3>
-<p align="left">:airplane:Telegram: @Veronika_Monarkhovich
+<img src="logo/Telegram.png" width="10" height="10">:Telegram: @Veronika_Monarkhovich
 <p align="left">:envelope:Email: taoryboon@gmail.com 
 </p>
 </h3>
