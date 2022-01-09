@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">**_The Graduation Work for the Test Automation Training Course_**
+<h3 align="left">
+**_The Graduation Work for the Test Automation Training Course_**
+</h3>
 
 [Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
 
@@ -47,8 +49,8 @@ Here are some ideas to get you started:
 [Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
 ---
 <h3 align="left">Connect with me:</h3>
-<p align="left"><img src="logo/Telegram.png" width="20" height="20"> Telegram: [@Veronika_Monarkhovich](@Veronika_Monarkhovich)
-<p align="left">:envelope:     Email: [taoryboon@gmail.com](taoryboon@gmail.com) 
+<p align="left"><img src="logo/Telegram.png" width="20" height="20"> Telegram: @Veronika_Monarkhovich
+<p align="left">:envelope:     Email: taoryboon@gmail.com 
 </p>
-</h3>
+
 
