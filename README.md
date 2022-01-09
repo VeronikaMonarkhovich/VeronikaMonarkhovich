@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 [REST API test automation project for ReqRes](https://github.com/VeronikaMonarkhovich/Reqres)
 
 [Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left"><img src="logo/Telegram.png" width="20" height="20"> Telegram: @Veronika_Monarkhovich
