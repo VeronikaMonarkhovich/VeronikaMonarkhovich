@@ -2,6 +2,16 @@
 I'm QA Automation Engineer!</h1>
 <h3 align="left">I've passed a course **Automation tools and practices with QA.GURU** at 2021
 
+---
+
+<h3 align="left"> The Graduation Work for the Test Automation Training Course
+</h3>
+
+[Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
+
+[REST API test automation project for ReqRes](https://github.com/VeronikaMonarkhovich/Reqres)
+
+[Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
 ___
 <h3 align="left">My stack:</h3>
 
@@ -35,17 +45,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
-<h3 align="left"> The Graduation Work for the Test Automation Training Course
-</h3>
-
-[Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
-
-[REST API test automation project for ReqRes](https://github.com/VeronikaMonarkhovich/Reqres)
-
-[Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
 
 ---
 <h3 align="left">Connect with me:</h3>
