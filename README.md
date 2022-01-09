@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left"> **_The Graduation Work for the Test Automation Training Course_**
+<h3 align="left"> The Graduation Work for the Test Automation Training Course
 </h3>
 
 [Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
