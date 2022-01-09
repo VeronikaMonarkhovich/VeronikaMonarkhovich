@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 
 ---
 **_The Graduation Work for the Test Automation Training Course_**
+
 [Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
+
 [REST API test automation project for ReqRes](https://github.com/VeronikaMonarkhovich/Reqres)
+
 [Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
