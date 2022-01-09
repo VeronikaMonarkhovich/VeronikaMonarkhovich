@@ -4,7 +4,7 @@ I'm QA Automation Engineer!</h1>
 
 ---
 
-<h3 align="left"> The Graduation Work for the Test Automation Training Course
+<h3 align="left"> The Graduation Work for the Test Automation Training Course:
 </h3>
 
 [Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
