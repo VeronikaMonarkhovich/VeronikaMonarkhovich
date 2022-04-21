@@ -1,10 +1,9 @@
-<h1 align="center">:cat2: Hi! 
-I'm QA Automation Engineer!</h1>
-<h3 align="left">I've passed a course **Automation tools and practices with QA.GURU** at 2021
-
+<h1 align="center">:cat2: Привет!
+Меня зовут Вероника. Я инженер по автоматизации тестирования</h1>
+<h3 align="left">В декабре 2022 года закончила курс в школе инженеров по автоматизации тестирования [QA.GURU](https://qa.guru/)
+Сейчас являюсь куратором в этой же школе.
 ---
-
-<h3 align="left"> The Graduation Work for the Test Automation Training Course:
+<h3 align="left"> Дипломный проект:
 </h3>
 
 [Web UI test automation project for SystemTechnologies](https://github.com/VeronikaMonarkhovich/SystemTechnologies)
@@ -13,7 +12,7 @@ I'm QA Automation Engineer!</h1>
 
 [Mobile Android UI test automation project for Wikipedia app](https://github.com/VeronikaMonarkhovich/Wikipedia)
 ___
-<h3 align="left">My stack:</h3>
+<h3 align="left">Разрабатываю автотесты и выстраиваю процессы в стеке:</h3>
 
 |  Java  | Gradle | Junit5 | Selenide | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps |   Jira   | Telegram | Appium |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
@@ -47,7 +46,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Мои контакты:</h3>
 <p align="left"><img src="logo/Telegram.png" width="20" height="20"> Telegram: @Veronika_Monarkhovich
 <p align="left">:envelope:     Email: taoryboon@gmail.com 
 </p>
